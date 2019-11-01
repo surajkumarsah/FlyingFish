@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "911663030638",
+    "firebase_url": "https://flyingfish-45f60.firebaseio.com",
+    "project_id": "flyingfish-45f60",
+    "storage_bucket": "flyingfish-45f60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911663030638:android:43602075e498b2c3b4e17f",
+        "android_client_info": {
+          "package_name": "com.example.flyingfish"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "911663030638-1obo9d5ubo4u9ectk2eohvi7eb7csbj4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flyingfish",
+            "certificate_hash": "dae7d93666ab12ac050e95da9e47c6bda5fd8233"
+          }
+        },
+        {
+          "client_id": "911663030638-lsqm8m2tfr3up9avl1ehitudg42hkb37.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWqF3rqt_iFvHkhPnmbDuWXzfcp-FVoCY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "911663030638-lsqm8m2tfr3up9avl1ehitudg42hkb37.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
